@@ -1,0 +1,25 @@
+Responsibilities:
+
+ Assisting with the development and maintenance of automated CI/CD pipelines.
+ Helping to manage and maintain cloud-based infrastructure.
+ Working closely with development and operations teams to identify and resolve issues.
+ Assisting in the implementation and management of configuration management tools.
+ Participating in code reviews and contributing to the development of best practices for deployment and testing.
+ Conducting research to identify new tools and technologies to improve efficiency and reliability of the DevOps process.
+ Providing documentation and training to ensure knowledge sharing within the team.
+ Participating in on-call to provide support for critical incidents outside of business hours.
+
+Skills & Experience
+
+ Required experience 0-1yr
+ Strong understanding & handon with Linux operating system and command line interface.
+ Strong understanding of cloud computing platforms such as AWS, Azure, or GCP.
+ Strong understanding of networking concepts and protocols such as TCP/IP and DNS.
+ Strong with coding/scripting languages such as Python, Shell, Ansible.
+ Strong understanding of Docker, Kubernetes, Helm
+ Familiarity with version control tools such as Git.
+ Ability to work independently and manage time effectively.
+ Eagerness to learn and take on new challenges in a fast-paced and dynamic environment.
+ Strong analytical and problem-solving skills.
+ Excellent communication and teamwork skills.
+ Familiarity with NoSql & Sql databases like Mongo, Postgres, ElasticSearch
