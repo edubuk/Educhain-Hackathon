@@ -12,11 +12,11 @@ const HRDashboard = () => {
 
     const fetchResume = async()=>{
         try {
-            const data = await axios.post('http://20.55.98.222:5000/match',
+            const data = await axios.post('https://20.55.98.222/match',
                 {
                     "jd_path": "jd.txt",
                     "cv_folder": "CVs",
-                    "must_have": ["Python", "CI/CD"],
+                    "must_have": ["ReactJs","NodeJs","Python", "CI/CD","ExpressJs"],
                     "good_to_have": ["Docker", "Kubernetes"],
                     "bonus_skills": ["AWS", "Terraform"]
                 },
