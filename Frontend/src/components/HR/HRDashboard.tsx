@@ -12,7 +12,7 @@ const HRDashboard = () => {
 
     const fetchResume = async()=>{
         try {
-            const data = await axios.post('https://20.55.98.222/match',
+            const data = await axios.post('https://edubukcvonchain.com/match',
                 {
                     "jd_path": "jd.txt",
                     "cv_folder": "CVs",
