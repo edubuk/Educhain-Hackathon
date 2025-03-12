@@ -10,7 +10,7 @@ const FetchResume = ({ data }: { data: any }) => {
       <ul className="flex flex-col gap-6">
         {
           data?.map((res:any,i:any)=>(
-            <li className="flex justify-center items-center gap-8"><a href={`http://localhost:5173/cv/${res.cv.replace(".pdf","")}`} className="border rounded border-[#006666] p-2">View CV </a> →<p>Rank-{i+1}</p></li>
+            <li className="flex justify-center items-center gap-8"><a href={`https://educhain-hackathon-livid.vercel.app/cv/${res.cv.replace(".pdf","")}`} className="border rounded border-[#006666] p-2">View CV </a> →<p>Rank-{i+1}</p></li>
           ))
         }
       </ul>
