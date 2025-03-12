@@ -25,11 +25,11 @@ function App() {
         <Route path="/about-us" element={<About />}></Route>
         <Route path="/terms-and-conditions" element={<TermsAndConditions />}></Route>
         <Route path="/cancellation-policy" element={<CancellationPolicy />}></Route>
+        <Route path="cv/:id" element={<CvOutputPage />} />
         <Route path="/contact-us" element={<ContactUs />}></Route>
           <Route element={<PrivateRoute />}>
           <Route path="/create-cv" element={<HomePage />} />
           <Route path="/dashboard" element={<DashBoard />} />
-          <Route path="cv/:id" element={<CvOutputPage />} />
           <Route path="/jobs" element={<Jobs />} />
           <Route path="/hr-portal" element={<HRDashboard />} />
         </Route>
