@@ -2,7 +2,7 @@
 Edubuk is an AI and Blockchain-powered platform designed to tackle the global issue of fake credentials. 
 By leveraging blockchain technology, Edubuk provides a secure, cost-effective, and instant verification system for academic credentials.
 
-## [Check out demo video](https://github.com/yourusername/project)
+## Check out demo video : https://www.youtube.com/watch?v=rvWZL2caLQw
 
 ## Problem Statement
 - 10 Million fake degrees sold annually.
